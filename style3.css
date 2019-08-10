@@ -1,0 +1,152 @@
+body{
+    background-color: #f0f0f0;
+}
+#d1{
+    height:500px;
+    width:860px;
+    border-radius:10px;
+    background-color: #ffffff;
+    margin:50px;
+}
+#d2{
+    width:100%;
+    height:110px;
+    background-color: #f0f0f0;
+}
+#d2 a{
+    color:rgb(134, 120, 120);
+    font-size:15px;
+    margin-left: 10px;
+}
+#d3{
+    width:100%;
+    height:100px;  
+}
+#d3a{
+  float:left;
+  height:100%;
+  width:70%; 
+
+}
+#d3b{
+  float:right;
+  height:100%;
+  width:30%;
+}
+#d4{
+    width:100%;
+    height:60px;
+}
+#d5{
+    width:100%;
+    height:60px;
+}
+#d5a{
+   width: 35%;
+   height:100%;
+   float:left;
+}
+#d5b{
+    width: 65%;
+    height:100%;
+    float:right;
+}
+#img2{
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+  }
+  #p1{
+    font-size:20px;
+    margin-top:20px;
+}
+#p2{
+    color: #aaaaaa;
+    font-size:13px;
+    margin-left:30px;
+    margin-top:20px;
+  
+}
+#p2a{
+    color: #aaaaaa;
+    font-size:13px;
+    margin-left:30px;
+  
+}
+#p3{
+    font-size:13px;
+    margin-left:30px;
+}
+#p4{
+    font-size:13px;
+    margin-left:30px;
+    margin-top:15px;
+    display: block;
+}
+#p5{
+    font-size:13px;
+    margin-left:20px;
+    margin-top:5px;
+}
+#btn1{
+    background:none;
+    border:1px solid #d8d8d8;
+    height:40px;
+    width:70px;
+    text-align:center;
+    border-radius:5px;
+    margin-top:20px;
+}
+#btn2{
+    background:none;
+    border:1px solid rgb(200, 189, 189);
+    height:30px;
+    width:200px;
+    padding-right:60px;
+    color:orange;
+    text-align:center;
+    border-radius:5px;
+    margin-left:30px;
+}
+#p4 input [type=checkbox]{
+    width:10px;
+    height:20px;
+}
+.form-group{
+    margin-left:30px;
+}
+.input-group-addon {
+  
+  font-size: 14px;
+  font-weight: 400;
+  width:10px;
+  line-height: 1;
+  color: rgb(212, 189, 189);
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid #ccc;
+  border-right:none;
+  border-radius: 4px;
+}
+.form-control{
+  border-left:none;
+
+}
+.btun{
+    height:30px;
+    width:100px;
+    border-radius:30px;
+    border:1px solid #d8d8d8;
+    background-color:white;
+}
+.butn1{
+    height:40px;
+    width:200px;
+    border-radius:5px;
+    border:1px solid #ff8243;
+    background-color:#ff8243;
+    margin-left:30px;
+    font-size:10px; 
+    text-align:center;
+    color:white;
+}
